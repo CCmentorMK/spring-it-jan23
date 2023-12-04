@@ -21,11 +21,4 @@ public class User {
     private String firstName;
     private String lastName;
 
-    public void setId(Long id) {
-        this.id = id;
-    }
-
-    public Long getId() {
-        return id;
-    }
 }
